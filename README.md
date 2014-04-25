@@ -1,4 +1,4 @@
 jira-2-trello
 =============
 
-Sync your: Trello / JIRA &amp;&amp; cards / issues &amp;&amp; boards / projects
+Sync your: Trello / JIRA -> cards / issues -> boards / projects
